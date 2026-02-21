@@ -1,0 +1,31 @@
+
+
+Nom : Saphyr
+Prénom : Dumo
+Âge : 63 ans
+Race : Elfe
+
+Caractère : Vicieux, Malin, Confiant
+Motivation : Récuperer le bijou familiale 
+
+"Ô vous, mes amis venez là, j'ai là quelque chose qui pourrait vous intereser"
+
+Cha : 28
+Cons : 19
+For : 20
+Génie : 22
+Dex : 17
+
+Quête :
+
+"Je cherche à me debarrasser de ces vieils affaires, vous m'avez l'air de bons voyageurs perdus, je suis sur que ça pourrait vous interesser.
+j'ai là un kit d'armure bien usagé mais qui ferait affaire pour n'importe qui en manque d'équipement. 
+Mais j'aurais besoin des services de jeunes comme vous, ma femme veut des baies rouge pour sa préparation magique, elle se trouve au coin de la rue, ces baies sont peu coûteuses"
+
+
+Récompense : VOUS VOUS ÊTES FAIT ARNAQUER !
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation
