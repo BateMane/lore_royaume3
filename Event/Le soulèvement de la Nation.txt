@@ -1,0 +1,20 @@
+"Le soulèvement de la Nation"
+
+Hola voyageur, vous qui passez devant moi le fin
+trublion qui vous donnera nouvelle, voici un terrible
+accident qui arrive sous nos yeux. Les rumeurs disent
+que depuis les mines de Fer Noir sont sortie d'étranges
+Ogre vert prêt à tout dévaster !
+
+"Le soulèvement de la Nation" est un des événements majeurs de votre histoire.
+Vous ne savez comment, mais vous jouerez peut être un rôle dans
+cette annexe de votre aventure.
+
+*Le Royaume de Fer assiégé petit à petit par les Orcs*
+Allez a Trumelion voir le Roi -> Repousser l'invasion Orc
+Rétablir la vérité sur l'alliance Orc / Humain et agir en conséquence
+
+Passif :
+- Orcs rodant dans le royaume de Fer
+- Racisme naissant pour les "Ogres verts"
+- Villes assiégés

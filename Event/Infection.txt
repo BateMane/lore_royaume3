@@ -1,0 +1,16 @@
+"Infection"
+
+Pardageris était jusqu'à maintenant contenu,
+eh bien c'est terminé.
+
+"Infection" est un des événements majeurs de votre histoire.
+Vous ne savez comment, mais vous jouerez peut être un rôle dans
+cette annexe de votre aventure.
+
+*Infection occurera au sein du Royaume d'Acier*
+Endiguer l'infection ou tout détruire.
+
+Passif :
+- Zombification du peuple nain.
+- Peur général du virus.
+- Meusre de sécurité naine (frontières, CP de contrôle)

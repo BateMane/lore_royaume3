@@ -1,0 +1,20 @@
+"La Lune Pourpre"
+
+Alors que votre aventure prend court, quelque chose semble se passer.
+Le ciel s'assombris et la lune se lève. Sa couleur est étrange, et des
+cor retentissent dans l'ombre de nuages inquiétant.
+Les animaux et les monstres de la forêt cri, leurs yeux deviennent rouges
+et un liquide de la même couleur s'en échappe.
+
+"La Lune Pourpre" est un des événements majeurs de votre histoire.
+Vous ne savez comment, mais vous jouerez peut être un rôle dans
+cette annexe de votre aventure.
+
+*1 Ville par Royaume attaqué*
+Trouver la source du mal -> Porten Helvete
+Tuer le seigneur de l'ombre et rétablir le jour sur le Royaume.
+
+Passif :
+- Animaux et monstres aggresifs
+- Humains et autres races beaucoup plus vénéneux
+- Relations inter royaume tendu

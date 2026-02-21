@@ -1,0 +1,17 @@
+"La Grande Guerre"
+
+Vous naviguez dans Kamor quand les cloches de tout royaume
+rententissent. La tension jusqu'à présent palpable
+a éclaté en un conflit inter-royaume.
+
+"La Grande Guerre" est un des événements majeurs de votre histoire.
+Vous ne savez comment, mais vous jouerez peut être un rôle dans
+cette annexe de votre aventure.
+
+*Plus aucune frontière/bataille à celle-ci*
+Trouver un moyen de rétablir la paix.
+
+Passif :
+- Races aggressives les unes envers les autres.
+- Accès aux Royaumes respectifs complexes.
+- Relations inter royaume tendu
