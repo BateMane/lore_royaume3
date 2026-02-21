@@ -1,0 +1,52 @@
+**Comment jouer?**
+
+***Statistique***
+
+Voici la grille statistique imposé ainsi que ses quelques fioritures :
+
+*Charisme :* La statistique qui définira votre présence dans le dialogue. Vous voulez vous exprimer à une foule ? Couper la parole à un Roi ? C'est ce jet qui définira vos chances de réussir.
+*Constitution :* Êtes vous prêt à prendre des coups? Votre armure ou vos équipements en tout ne définiront jamais la dureté de votre peau ! Cette statistique pourra être influencé par vos équipements, mais sera nativement celle de votre résistance.
+*Force :* Les biceps d'un centaure ou les jambes d'un gobelin? Seul vos muscles vous démarqueront dans cette catégorie, car c'est ici qu'on définira la puissance de vos coups !
+*Génie :* Il ne suffis pas que de votre force pour arriver au bout de cette aventure ! L'esprit est une arme que l'on méprise souvent, il est temps avec cette statistique de lui rendre de sa superbe.
+*Dextérité :* Soyez vif comme l'éclair ou lent comme un escargot. Il est temps de jauger cette vitesse d'éxécution !
+
+***Répartissez 200 points en tout dans chacune de ces statistiques et vous serez complets!*** (sachant que je ne veux voir aucune stats en dessous de 20 et aucun abus/exploitation de faille) 
+
+'Honneur (stat BONUS): S'active en fonction de votre réputation auprès du PNJ concerné par l'action'
+'Compétences : Chacun de vos personnages se verra attribué une compétence propre, utilisable jusqu'à 3 fois dans une session (variable : contexte), dont on fixera ensemble les principaux bonus. Réflechissez déjà à une idée, écrivez l'effet voulu, et je créerai vos bonus.'
+
+*Une barre de vie sera définis de manière customisé pour chacun de vous à la première session.*
+
+***Inventaire***
+
+'Votre inventaire sera définis par un nombre de slot dépendant de votre équipement'
+*Exemple :* 
+Sac à dos (+6) : 
+-
+-
+-
+-
+-
+-
+
+'Vous disposerez d'un inventaire mentale, les slots ici sont infini, utilisez le pour noter toute vos pensées, qupetes en cours etc.. Je ne serais pas la pour récapituler la partie, sauf a travers le plateau et quelques petites phrases!'
+
+***Résumé des mécanique de base :***
+
+'Déplacement :' Totalement libre, dans les limites du RP de vos personnages et les limites de logique.
+
+'Combat :' Chaques actions seront définis par des jets quand il s'agit de combat. Toujours dans la limite du raisonnable évidemment. N'oubliez pas de jouer le rôle de vos personnages! Ils n'arrivent pas toujours ce que l'on veut quand on affronte des inconnus !
+
+'Magie :' Un jet de génie, efficace ou non en fonction de votre taux de réussite.
+
+'Logique de jeu :' Chaque action aura un impact et un effet sur la suite de l'aventure. Réflechissez à vos mouvements, ils peuvent être décisif. N'oubliez pas que vos personnages ne sont pas immortels et qu'une mort peut signifier une fin de partie pour vous. Aussi, agissez selon les traits de caractère principaux (cf: caractère dans vos personnages), et pas selon votre désir HRP. L'essence même de ce jeux et d'être le plus raccord et immergé dans les choix de vos personnages!
+
+'Quête :' Lors de votre aventure, vous rencontrerez de nombreux personnages, aussi coloré les un que les autres. Gardez à l'esprit que chacun d'entre eux disposent de quête qu'il faut activer grâce à certain dialogue! Lorsque vous aurez activé celle-ci, le PNJ dira haut et fort ce qu'il attend de vous par une phrase succinte et dans le plateau apparaitera la qupete sous le format suivant :
+**"Nom de la Quête"**
+[Texte de la quête]
+Ainsi, c'est aussi à vous de demander ou de découvrir les récompenses de chacune d'elles, qui s'afficheront de la même manière quand vous les aurait trouvée !
+
+'QG :' Certaines quêtes ou ensemble de quête vous débloquerons l'accès à des QG, ceux-ci seront accessible en fin de session (sauf quête de zone en court). Vous retrounerez ainsi dans une zone safe pour le prochain début de partie (cf: fast travel) ou vous regagnerez vos PV et remonterez vos stats affectés.
+
+'Le méchant MJ :' Je ne suis pas votre ami en JEU. Chaque chose qui arrive sera mérité, et rien ne me fera changer d'avis. Par ailleurs, si je considère une action trop libertaire ou trop "personnelles" (cf: Logique de jeu), je prendrais les devant et annulerai vos actes en conséquence. Donnez vous du fun construit, et pas un joyeux bordel :)
+
