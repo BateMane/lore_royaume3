@@ -1,0 +1,21 @@
+Annie Bohadur
+
+Nom : Bohadur
+Prénom : Annie
+Âge : 21 ans
+Race : Elfes
+Caractère : Souriante, Ambitieuse, Rêveuse
+Motivation : Survivre dans la dure vie qu'elle a choisis.
+
+"Laissez moi tranquille ! JE NE SUIS PAS UNE CHOSE QU'ON ACHÉTE!"
+
+Cha : 21
+Cons : 13
+For : 33
+Génie : 47
+Dex : 36
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

@@ -1,0 +1,38 @@
+Aude Simulo
+
+Nom : Simulo
+Prénom : Aude
+Âge : 63 ans
+Race : Humaine
+
+Caractère : Épuisé, Serviable, Vieille
+Motivation : Faire tourner l'auberge
+
+"J'en ai vu des millions comme vous, mais ça ne suffira à me faire lâcher mon affaire!"
+
+Cha : 55
+Cons : 60
+For : 57
+Génie : 10
+Dex : 10
+
+Quête :
+
+"Rendre à César ce qui est à César"
+Aude ne veut plus quitter la taverne ! Il semblerait qu'elle
+est enfermé son propriétaire dans le placard, et elle est persuadé
+que cet endroit lui appartient, faites quelque chose !
+
+Récompense : Une bonne bière et de quoi manger 
+
+Autre interaction :
+
+- Vente
+Bière du pays - 15 D
+Ohctanchondra - 35 D
+Tarte à la viande - 10 D
+Omelette d'Oeuf de Niglald - 11 D
+Sirop de Grenade - 6 D
+
+- Dialogue / Question
+Improvisation

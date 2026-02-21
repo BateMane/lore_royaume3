@@ -1,0 +1,29 @@
+Grimm
+
+Nom : Grimm
+Prénom : Grimm
+Âge : 0 ans
+Race : Dieu
+
+Caractère : Omniscient
+Motivation : Renseigner les visiteurs de la bibliothèque.
+
+"Bienvenue dans l'antre du savoir"
+
+Cha : 100
+Cons : 100
+For : 100
+Génie : 100
+Dex : 100
+
+Interaction :
+
+- Dialogue / Question
+
+"Toi qui recherche des réponses, tu ne dois craindre ce qui se dresse
+face à toi. Embrasse ta destiné, affronte ton avenir. Il n'y a qu'un seul
+moyen de savoir ce qu'il se trouve de l'autre côté de ces rives. Tu as
+suivi les traces de ton père jusqu'ici, et bien continue, tu es sur la
+bonne voie enfant de Denethor. Prend ce livre, il t'instruira les rudiments
+de la traversée en mer des Maures. Prend soin de toi dans ta quête, ne fais
+pas les mêmes erreur que d'autres."

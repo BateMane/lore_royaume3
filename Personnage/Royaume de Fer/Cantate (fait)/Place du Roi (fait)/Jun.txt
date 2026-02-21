@@ -1,0 +1,42 @@
+Jun
+
+Nom : Peters
+Prénom : Jun
+Âge : 35 ans
+Race : Nordique
+
+Caractère : Perdu, Isolé, Épuisé
+Motivation : Retrouver le chemin de sa ville natale
+
+"Tout ce dont je me souviens, c'est tout ce froid.."
+
+Cha : 57
+Cons : 63
+For : 58
+Génie : 43
+Dex : 72
+
+Quête :
+
+"Les retrouvailles"
+Alors que vous harpentez la place de Victoire,
+Shelaï semble reconnaître une femme, il ne sait pas
+d'ou elle viens, mais il compte bien tirer au clair
+les tenants et aboutissants de cet étrange sensation de
+déjà vu.
+Parler à Jun.
+
+Récompense : Suite de quête "Les retrouvailles pt.2"
+
+"Les retrouvailles pt.2"
+Jun vous dis avoir entendu parler d'un homme en
+conaissant un rayon sur l'endroit que Shelaï semble
+avoir en commun avec elle. Rendez visite à
+Mimel Tarik, au Marché de Albazerad.
+
+Récompense : Suite de quête "La terre de Givre"
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

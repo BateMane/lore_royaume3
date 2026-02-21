@@ -1,0 +1,33 @@
+Zack Logdvar (Chef de la guilde)
+
+Nom : Logdvar
+Prénom : Zack
+Âge : 51 ans
+Race : Elfe du désert
+
+Caractère : Tiranique , Humble , Érudie
+Motivation : Faire prospérer la Guilde des Maraudeurs dans le sens de sa lignée.
+
+"Le sang de la famille Logdvar est absolue, mon fils est ma fierté et il héritera des reines de la Guilde."
+
+Cha : 71
+Cons : 38
+For : 21
+Génie : 73
+Dex : 63
+
+Quête :
+
+"L'héritage du sang d'Or"
+Tanës Logdvar, fils de Zack Logdvar, futur héritier de la Guilde des Maraudeurs
+refuse de quitter son royaume natale pour rejoindre les rangs de son père. 
+Zack ne laisse transparetre aucune inquiétudes. 
+Fait-il erreur à attendre le destin ou décideriez-vous de convaincre son fils de
+le rejoindre ? Quel sera votre choix?
+
+Récompense : Services gratuits dans la limite du raisonnable.
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

@@ -1,0 +1,30 @@
+Gonzo
+
+Nom : ???
+Prénom : Gonzo
+Âge : 11 ans
+Race : Gobelin
+
+Caractère : Sale, Impétueux, Triste
+Motivation : Être autre chose qu'un esclave
+
+"Gonzo est triste, Gonzo veut être meilleur, Gonzo veut devenir génial !"
+
+Cha : 12
+Cons : 32
+For : 20
+Génie : 5
+Dex : 55
+
+Quête :
+
+"Fin de l'esclavage"
+Le cruel Royaume de Fer utilise les Gobelins comme Esclave, cela
+vous excéde-t-il? Il est alors temps d'y mettre un terme.
+
+Récompense : Honneur "Roi des Gobelins"
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

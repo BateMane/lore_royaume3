@@ -1,0 +1,33 @@
+William Williams
+
+Nom : Williams
+Prénom : William
+Âge : 46 ans
+Race : Changelin
+
+Caractère : Jovial, Sympathique, Inquiet
+Motivation : Trouver le Louveteau fauteur de trouble
+
+"Des assiettes arrachés, des verres bouffés, je ne sais pas
+qui fait ça, mais il est temps d'en finir avec ça!"
+
+Cha : 73
+Cons : 43
+For : 33
+Génie : 67
+Dex : 83
+
+Quête :
+
+"Le Loup parmis nous"
+Un enfant du groupe des Louveteaux agis étrangement
+depuis quelque temps, il mange tout le mobilié
+et William s'inquiête. Trouver le fautif et faite
+quelque chose.
+
+Récompense : + 120 D / Honneur "Louveteau Confirmé"
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

@@ -1,0 +1,32 @@
+Aneline Jostar
+
+Nom : Jostar
+Prénom : Aneline
+Âge : 27 ans
+Race : Humain
+
+Caractère : Silencieuse, Efficace, Douillette
+Motivation : Nourrir les Louveteaux
+
+"Le feu ne cesse de s'éteindre à cause de ce vent des plaines.."
+
+Cha : 43
+Cons : 41
+For : 32
+Génie : 62
+Dex : 30
+
+Quête :
+
+"Du pain sur planche"
+Aneline, ami de Surmelis, accompagne les Louvetaux pour les nourrir
+avec ce qu'il ramène de leurs expéditions, mais son feu ne tiens pas la route.
+Ramener lui de quoi faire brûler un brasero, et elle sera heureuse.
+
+Récompense : Un bon repas chaud / +50 D / Boeuf séché x4
+Autre interaction :
+
+- Dialogue / Question
+Improvisation
+
+SI DEUX QUÊTES DU CAMP ACCOMPLI GAIN DU QG "CAVERNE DES LOUVETEAUX"

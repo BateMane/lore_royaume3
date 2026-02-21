@@ -1,0 +1,23 @@
+L'ombre
+
+Nom : ???
+Prénom : ???
+Âge : ???
+Race : ???
+
+Caractère : ??? , ??? , ???
+Motivation : ???
+
+"vous ne savez pas, je sais."
+
+Cha : 100
+Cons : 100
+For : 100
+Génie : 100
+Dex : 100
+
+Ordre : Jet de dès, corruption d'un des joueurs.
+
+Récompense : ???
+
+

@@ -1,0 +1,34 @@
+Frok Porte-Acier
+
+Nom : Porte-Acier
+Prénom : Frok
+Âge : 34 ans
+Race : Nain
+
+Caractère : Grincheux, Fier, Énervé
+Motivation : Trahir le chef de la Guilde des Maraudeurs
+
+"Les Elfes ne sont pas des êtres de confiance, il est
+temps de rendre aux  Nains de leur superbe dans cette guilde !"
+
+Cha : 73
+Cons : 34
+For : 62
+Génie : 23
+Dex : 12
+
+Quête :
+
+"Haute Trahison"
+Frok Porte-Acier cherche à trahir le chef de la Guilde des Maraudeurs.
+Le tuez ou l'enfermer, rien ne compte à ses yeux si ce n'est la place
+de leader ! Quel sera votre choix? Pour qui prendrez vous parti?
+
+Récompense : + 200 D / Honneur "Ami des Nouveaux Maraudeurs"
+
+Récompense : 
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

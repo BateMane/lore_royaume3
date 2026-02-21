@@ -1,0 +1,41 @@
+Grunt Zadrog
+
+Nom : Zadrog
+Prénom : Grunt
+Âge : 36 ans
+Race : Orc
+
+Caractère : Perdu, Rêveur, Maladroit
+Motivation : S'intégrer aux humains
+
+"HAAA ! Vous m'avez fait peur mon dieu, ne me tuez pas!"
+
+Cha : 21
+Cons : 82
+For : 76
+Génie : 45
+Dex : 16
+
+Quête :
+
+"Un Orc pas comme les autres!"
+Vous marchez dans les mines quand vous rencontrez Grunt Zadrog
+, un étrange être vert, 2 fois plus haut que vous et recourber
+sur lui même. Il dit venir d'un village de "l'autre côté". Il cherche
+la sortie de la grotte, mais est trop effrayé par les humains
+qui le chasse à chaque fois qu'ils le voit.
+Aider Grunt à prendre son courage à deux mains, et à sortir de la Mine.
+
+Récompense : Hache de Zadrog / +50 D / Suite de quête "Un Orc pas comme les autres! pt.2"
+
+"Un Orc pas comme les autres! pt.2"
+Vous êtes enfin sortie de cette mine ! Grunt veut découvrir le monde
+, amenez le ou vous voulez et montrez lui ce qu'il peut devenir !
+
+Récompense : Honneur "Ami de Grunt" / +100 D / Casque de Grunt
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation
+

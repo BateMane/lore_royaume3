@@ -1,0 +1,52 @@
+Forgeron :
+
+Set d'Armure d'acier - 460 D
+	Pièces individuelles - Négociations
+Lame de Damas (Épée à une main) - 120 D
+Lame de Ruby des montagnes (Épée à une main) - 230 D
+Dague de Damas - 65 D
+Hache du Trublion (Hache à deux mains) - 230 D
+Set de Réparation simple - 50 D
+Set de Réparation PRO (requiert apprentissage) - 130 D
+
+*Renouvellement du stock sous 2 jours*
+Apprentissage : Métalurgie - 350 D
+
+Chasseur :
+
+Viande de Facochère raffiné - 30 D
+Arc en bois sauvage + Carquois - 200 D
+	Pièces individuelles - Négociations
+Baies Rouges (x3 Utilisations) - 20 D
+Tente de campeur primitif - 100 D
+Tente de campeur PRO (requiert apprentissage) - 200 D
+Couteau de dépeçage simple - 50 D
+Couteau de dépeçage PRO (requiert apprentissage) - 130 D
+
+*Renouvellement du stock sous 1 semaine*
+Apprentissage : Survivaliste - 250 D
+
+Alchimiste :
+
+Livre d'incantation Nécrotique - 200 D
+Set de Vêtements de la lune Pourpre - 200 D
+	Pièces individuelles - Négociations
+Potions de soin mineur - 20 D
+Pierre de savoir : Invocation - 530 D
+Pierre de savoir : Sphère de flamme - 780 D
+Huiles de confections simple - 85 D
+Huiles de confections PRO (requiert apprentissage) - 200 D
+
+
+*Renouvellement du stock sous 3 jours*
+Apprentissage : Maître des Fioles - 980 D
+
+Marché aux Puces - Négociations :
+
+Fruits et légumes
+Vêtements
+Matériel simple
+Compagnons (Haut Prix)
+
+
+

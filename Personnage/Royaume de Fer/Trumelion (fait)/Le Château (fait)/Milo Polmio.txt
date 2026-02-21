@@ -1,0 +1,44 @@
+Milo Polmio
+
+Nom : Polmio
+Prénom : Milo
+Âge : 22 ans
+Race : Humaine
+
+Caractère : Impetueuse, Irritable, Charismatique
+Motivation : Retrouver son petit frère.
+
+"Je vous jure que quand je retrouverais ce petit tas de fiente,
+il passera un sale quart d'heure !"
+
+Cha : 33
+Cons : 31
+For : 23
+Génie : 43
+Dex : 12
+
+Quête :
+
+"L'ainé de mes soucis"
+SI silence : Le petit prince Polmio a disparu, et il semblerait que
+vous l'ayez aidé, vous pouvez encore faire marche arrière. Vous serez
+humblement récompenser.
+
+Récompense : si BALANCE +700 D et vvv / si RIEN DIRE -> Événement annexe : "Mort du Prince"
+
+SI balance : "Vous devez être le groupe qui a retrouvé ce petit enfant
+de catin au camp d'Orest? Tommy est entrain d'être raccompagné par des gardes,
+et les chefs de cette petite troupe seront puni pour l'avoir emmener avec
+eux!". Fermeture des Louveteaux.
+
+Récompense : Perte du QG "Caverne des Louveteaux" / +700 D
+
+SI jamais Fait : Le petit prince Polmio a disparu, retrouvez le
+et vous serez humblement récompenser. 
+  
+Récompense : +700 D / Choix 1
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

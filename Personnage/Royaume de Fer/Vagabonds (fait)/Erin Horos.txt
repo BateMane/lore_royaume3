@@ -1,0 +1,40 @@
+Erin Horos
+
+Nom : Horos
+Prénom : Erin
+Âge : 37 ans
+Race : Centaure
+
+Caractère : Triste, Prêt à tout, Blessé
+Motivation : Trouver refuge, loin des elfes
+
+"Ils ne comprennent pas que nous n'avons jamais mérité ça,
+notre race est glorieuse et puissante!"
+
+Cha : 74
+Cons : 86
+For : 83
+Génie : 26
+Dex : 63
+
+Quête :
+
+"Un Héros incompris"
+Erin aurait pû ne jamais agir, mais c'est maintenant trop
+tard. Les elfes ont tué son vieux père. Il a effectué un
+carnage chez son maître, à la frontière et s'est évadé dans
+le Royaume de Fer. Maintenant que vous le croisez, à vous de choisir
+son destin.
+Livrez/Sauvez Erin.
+
+Récompense : +1000 D si LIVRÉ / Suite de quête "Un Héros incompris pt.2" si SAUVÉ
+
+"Un Héros incompris pt.2"
+Erin veut venger son père. Tuez son maître.
+
+Récompense : +1 QG "Chez Erin" / Honneur "Ami des Centaures"
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

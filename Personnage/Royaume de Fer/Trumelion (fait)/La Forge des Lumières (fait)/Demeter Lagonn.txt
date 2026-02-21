@@ -1,0 +1,35 @@
+Demeter Lagonn
+
+Nom : Lagonn
+Prénom : Demeter
+Âge : 18 ans
+Race : Humain
+
+Caractère : Peureux, Talentueux, Scéptique
+Motivation : Reprendre fièrement le flambeau de la Forge des Lumières.
+
+"Je ne sais pas qui vous êtes, mais vous pouvez certainement m'aider."
+
+Cha : 23
+Cons : 53
+For : 73
+Génie : 54
+Dex : 33
+
+Quête :
+
+"L'Héritage"
+Demeter forge actuellement l'Épée du fils cadet du
+Roi, et il a besoin de vous pour ramener des matériaux
+de celle-ci. Elle lui permettra de briller de nouveau, comme
+l'homme avant lui.
+- 30 pépites de Fer Noir (Mines de Fer Noir)
+- Pierre de pouvoir millénaire (Mages'Tarn)
+- Cuirasse de Chimère
+
+Récompense : Set d'Armure Royal / +600 D
+
+Autre interaction :
+
+- Dialogue/Question
+Improvisation

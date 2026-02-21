@@ -1,0 +1,43 @@
+Leon Polmio / Leon II (Roi du Royaume de Fer)
+
+Nom : Polmio
+Prénom : Léon
+Âge : 53 ans
+Race : Humain
+
+Caractère : Fatigué, Fier, Engagé
+Motivation : Empêcher l'inconnu de rompre l'équilibre
+
+"Il y a au sein de mes terres un lâche qui présage un destin
+funeste.. Il crois que le monde tournera dans le sens de l'unité,
+je crois qu'il ne vas faire qu'amener la guerre à nos portes."
+
+Cha : 94
+Cons : 57
+For : 63
+Génie : 83
+Dex : 23
+
+Quête :
+
+"Un choix empirique"
+Léon II n'est pas dupe, il sait tout ce qu'il se passe sur ses
+terres, et cette rumeur ne lui a pas échappé. Un homme né Roi, se
+terant on ne sais ou dans une hûte itinérante, préchant le soulèvement
+et souhaitant la destruction de tout. Il vous fait part de la prime
+mis sur la tête de cet homme, et vous demande de faire quelque chose.
+
+Récompense : + 2500 D / Annulation de la quête "Le Royaume"
+
+Autre interaction :
+
+- Dialogue / Question
+
+"La vérité"
+Maurie, tu dois comprendre. Ton père n'était pas seulement avare d'argent, mais aussi de pouvoir.
+Il risquait de soulever le Royaume de Fer et de briser la paix qui nous unis tous. Cette épée,
+c'est une arme capable de trancher une montagne. Elle ne doit pas être mis dans n'importe quelle
+main. Ton père a attenté à ma vie ce soir là. Je suis prêt a effacé cet affront pour repartir sur
+de bonne base, tu pourrais travailler avec ton frère; redoré le blason de ta famille.
+
+Récompense potentielle : Pass inter-royaume.

@@ -1,0 +1,38 @@
+Pilloug Hotor
+
+Nom : Hotor
+Prénom : Pilloug
+Âge : 58 ans
+Race : Argonien
+
+Caractère : Faible, Serviable, Hystérique
+Motivation : Récupérer sa taverne
+
+"Aidez moi, cette folle de Simulo m'a volé ma taverne !"
+
+Cha : 42
+Cons : 40
+For : 25
+Génie : 55
+Dex : 32
+
+Quête :
+
+"Rendre à César ce qui est à César"
+Aude ne veut plus quitter la taverne ! Il semblerait qu'elle
+est enfermé son propriétaire dans le placard, et elle est persuadé
+que cet endroit lui appartient, faites quelque chose !
+
+Récompense : Une bonne bière et de quoi manger 
+
+Autre interaction :
+
+- Vente
+Bière du pays - 15 D
+Ohctanchondra - 35 D
+Tarte à la viande - 10 D
+Omelette d'Oeuf de Niglald - 11 D
+Sirop de Grenade - 6 D
+
+- Dialogue / Question
+Improvisation

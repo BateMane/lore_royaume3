@@ -1,0 +1,33 @@
+Simon Kordvick (Whun)
+
+Nom : Kordvick
+Prénom : Simon
+Âge : 761 ans
+Race : Homme-Loup
+
+Caractère : Calme, Determiné, Puissant
+Motivation : Faire renaître le Royaume
+
+Cha : 85
+Cons : 75
+For : 90
+Génie : 65
+Dex : 95
+
+"Je finirais ce que tu as commencé."
+
+Quête :
+
+"Le Royaume"
+Whun est un être mystérieux. Dans le village, tout le monde l'appel
+le chasseur. Personne ne sait d'ou il vient ni ce à quoi il aspire.
+Lui vous explique qu'il sert un plan qui vous dépasse, mais qu'il a
+tout de même besoin d'esprit fertile et determiné comme les votre.
+Son objectif, réunir la coalition, détruire les 3 Royaumes.
+
+Récompense : Fin de la partie.
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

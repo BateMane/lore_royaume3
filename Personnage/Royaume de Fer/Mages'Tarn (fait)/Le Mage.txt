@@ -1,0 +1,47 @@
+Le Mage (Ulf Franteroc)
+
+Nom : Franteroc
+Prénom : Ulf
+Âge : 200 ans
+Race : Humain
+
+Caractère : Impulsif, Solitaire, Irritable
+Motivation : Trouver un moyen d'imiter la magie des Elfes du désert, pour la retourner contre eux
+
+"La magie de ces monstres d'Elfes est malicieuse et dangereuse pour nous, les humains! Le jour ou la guerre éclatera de nouveau,
+il faut que nous ayons un rempart magique aussi précieux et puissant que le leur."
+
+Cha : 53
+Cons : 36
+For : 23
+Génie : 94
+Dex : 10
+
+Quête :
+
+"Cet enfoiré d'Elf !"
+L'alliance humains/elfs est une corde très instable, et il sera difficile de limiter les dégats d'une guerre
+si elle éclatait entre ces deux parties du continent, Le Mage compte sur vous pour lui ramener un elf mage en toute bonne
+forme, afin qu'il puisse étudier sa magie, et dieu sait quoi faire d'autre !
+
+Récompense : "Le Livre de l'Archimage" / Suite de quête "Cet enfoiré d'Elf pt.2" / Bâton de concentration de Gaïa (+10 Magie passive ou Spécialisation Terre) / +120 D
+
+"Cet enfoiré d'Elf ! Pt.2"
+Des soldats frappe à la porte de Mages'Tarn, et c'est ainsi que vous comprenez que votre petite esbrouffe est
+compromise ! Allez vous défendre Ulf ou le livrer à la cour ?
+
+Récompense : Bague d'immortalité (+2 jours)
+ 
+Autre interaction :
+
+- Vente
+Boutique :
+Potion de soin mineur -> -10 D
+Potion de soin majeur -> -30 D
+Huile d'empoisonnement -> -20 D
+Huile d'olive -> -3 D
+Cocktail Explosif -> -50 D
+Tête de Lièvre ensorcelé -> -130 D
+
+- Dialogue / Question
+Improvisation

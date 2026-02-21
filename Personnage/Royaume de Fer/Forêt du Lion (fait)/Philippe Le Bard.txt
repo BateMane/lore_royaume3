@@ -1,0 +1,33 @@
+Philippe le Bard
+
+Nom : Viale
+Prénom : Philippe
+Âge : 78 ans
+Race : Humain
+
+Caractère : Mystérieux, Lent, Étrange
+Motivation : Se débarasser de sa malédiction
+
+"Maudit soit tu Dieu de l'Esprit, toi qui m'a pris, qui m'a circonscis"
+
+Cha : 100
+Cons : 100
+For : 10
+Génie : 10
+Dex : 10
+
+Quête :
+
+"Le Bard Maudit"
+Vous marchez dans la forêt quand vous entendez un air se jouer au loin.
+Il a le nez rouge, sa guitare à la main, voici Philippe le Bard. Son destin fut
+scellé le jour ou il s'éloignit des plans des dieux. Alors il fut maudit, condamné
+a ne faire que jouer, pour que plus jamais il ne puisse voir la verité.
+Trouver un moyen de sauver ce pauvre fou.
+
+Récompense : Honneur "Courroux des dieux" / +15 D
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

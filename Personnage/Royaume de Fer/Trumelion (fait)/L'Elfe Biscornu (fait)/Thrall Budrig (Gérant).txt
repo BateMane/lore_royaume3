@@ -1,0 +1,37 @@
+Thrall Budrig (Gérant)
+
+Nom : Budrig
+Prénom : Thrall
+Âge : 57 ans
+Race : Humain
+
+Caractère : Heureux, Fier, Dévoué
+Motivation : Faire tourner son affaire !
+
+"Ici, il y a tout ce qu'il vous faut ! Boisson, femme, couchette, vous
+êtes chez vous ! Bienvenu à l'Elfe Biscornu ! "
+
+Cha : 56
+Cons : 37
+For : 57
+Génie : 24
+Dex : 12
+
+Quête :
+
+"Dégagez moi cet brute!"
+L'affaire de Thrall tourne a merveille, et il compte
+bien prospérer ! Dégager de son planché les 2 brutes épaisse
+qui terrorise les clients, sans accro, et vous serez récompensé !
+
+Récompense : Une nuit de sommeil, et un bon repas / -10% sur tout les prix !
+
+Autre interaction :
+
+- Vente
+Fille de joie - 100 D
+La nuit - 80 D
+Repas chaud - 60 D
+Repas froid - 60 D
+Bière de la capitale - 20 D
+Rhum paille - 40 D

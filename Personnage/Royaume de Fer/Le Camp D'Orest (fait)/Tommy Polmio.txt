@@ -1,0 +1,33 @@
+Tommy Polmio
+
+Nom : Polmio
+Prénom : Tommy
+Âge : 12 ans
+Race : Humain
+
+Caractère : Irritable, Respectueux, Simplet
+Motivation : Essayer d'être comme les autres enfants.
+
+"Être le fils d'un Roi.. ça ferme aussi beaucoup de porte. Je veux juste passer du temps
+dehors, comme les autres.."
+
+Cha : 21
+Cons : 32
+For : 12
+Génie : 43
+Dex : 63
+
+Quête :
+
+"Le cadet de mes soucis"
+Alors que vous vous reposez dans le camp, à l'abris des regards, un jeune homme vous interpéle
+, cachez derrière une tente. Ce n'est autre que le plus petit de la famille royale, Tommy Polmio.
+Il a suivi le groupe en dehors du chateau, pour passer un peu de temps avec d'autres enfants,
+loin des tâches princières qui l'incombe. Il réclame votre silence en l'échange d'un gros pécul.
+  
+Récompense : +150 D / Suite de quête "L'ainé de mes soucis"
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

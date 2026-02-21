@@ -1,0 +1,33 @@
+Le Nemesis
+
+Nom : Taràk
+Prénom : Vidar
+Âge : 43 ans
+Race : Argonien
+
+Caractère : Determiné, Héroïque, Puissant
+Motivation : Démettre sa version de lui dans ce monde
+
+"Tu ne comprendrais pas, mais je vais essayer de t'expliquer."
+
+Cha : 40
+Cons : 60
+For : 60
+Génie : 80
+Dex : 60
+
+Quête :
+
+"L'autre monde"
+Alors que vous marchez sur les routes, vous rencontrez une bien
+étrange silhouette, qui en tout point ressemble à Vidar.
+Il explique qu'il viens d'un autre monde, lointain, ou il est la
+seule vraie menace, écrite dans une prophétie.
+Il veut juste tuer Vidar, pour ce qui semble être une bonne raison.
+
+Récompense : Si CONFRONTÉ, Pierre du Rym / Si RAISONNÉ,
+Il reviendra dans "L'autre monde pt.2"
+
+Autre interaction :
+
+- Combat

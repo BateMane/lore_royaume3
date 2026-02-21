@@ -1,0 +1,29 @@
+Fladug Ogris
+
+Nom : Ogris
+Prénom : Fladug
+Âge : 26 ans
+Race : Changelin
+
+Caractère : Hyper actif, Imprévisible, Puissant
+Motivation : Ne plus jamais voir sa famille
+
+"Je n'en peux plus, leur rite de passage me force à devenir un Ours pour 1 mois, je ne veux plus jamais les voir! "
+
+Cha : 32
+Cons : 85
+For : 74
+Génie : 12
+Dex : 18
+
+Quête :
+
+"Mais ou est passé Fladug !"
+Que faire avec Fladug, le laisser partir, ou l'amener à son frère?
+
+Récompense : +60 D / Honneur "Ennemi des Ogris"
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

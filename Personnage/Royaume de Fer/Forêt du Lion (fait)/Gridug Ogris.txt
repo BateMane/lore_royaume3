@@ -1,0 +1,31 @@
+Gridug Ogris
+
+Nom : Ogris
+Prénom : Gridug
+Âge : 23 ans
+Race : Changelin
+
+Caractère : Sage, Narquois, Puissant
+Motivation : Retrouver son frère Fladug Ogris
+
+"Par Grux, je ne retrouve plus ce satané Fladug, c'est pourtant pas si dur de rester côte à côte, nous n'étions que venu cueillir des baies sauvages! "
+
+Cha : 73
+Cons : 83
+For : 68
+Génie : 10
+Dex : 63
+
+Quête :
+
+"Mais ou est passé Fladug !"
+Alors que Gridug et son frère rentrez chez eux, l'appel de la Forêt du Lion et de ses
+aléchantes baies les a piégé. Manque de bol, Gridug a perdu son frère dans la forêt.
+Retrouvez le, et il saura bien vous récompenser !
+
+Récompense : +60 D / Honneur "Ami des Ogris"
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

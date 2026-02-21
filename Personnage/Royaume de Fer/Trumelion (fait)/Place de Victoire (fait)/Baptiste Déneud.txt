@@ -1,0 +1,39 @@
+Baptiste Déneud
+
+Nom : Déneud 
+Prénom : Baptiste
+Âge : 16 ans
+Race : Humain
+
+Caractère : Effrayé, Intelligent, Pauvre  
+Motivation : Trouver un toit et se nourrir.
+
+"J'aimerais pouvoir produire mon propre pain, sous mon propre toit !"
+
+Cha : 12
+Cons : 21
+For : 10
+Génie : 43
+Dex : 76
+
+Quête :
+
+"Pât'a'pain !"
+Entre deux petites rues adjacentes à la place
+se trouve un jeune homme bien atipique. Baptiste sers un
+grand projet. Il souhaite voler une boutique?! Pas voler
+son contenu, voler toute la boutique, son moulin, la
+plantation de blé, et la production dans son intégralité.
+Baptiste est un peu fou, mais vous pouvez peut-être l'aider? 
+
+Récompense : 30 Miches de Pain / Suite de quête "Pât'a'pain ! pt.2"
+
+"Pât'a'pain ! pt.2"
+Vous vous êtes accaparer avec succès la boutique de ce boulanger !
+Faites face aux conséquences, son frère est arrivé, et il ne se
+laissera pas faire !
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

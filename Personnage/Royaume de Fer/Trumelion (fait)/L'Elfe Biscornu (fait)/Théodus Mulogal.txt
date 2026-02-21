@@ -1,0 +1,28 @@
+Théodus Mullogal
+
+Nom : Mullogal
+Prénom : Théodus
+Âge : 41 ans
+Race : Humain
+
+Caractère : Dépressif, Miteux, Blessé
+Motivation : Trouver le Dragon de Millestone
+
+"J'ai tout perdu.. tout. Milestone, ses habitants, ma famille.."
+
+Cha : 63
+Cons : 43
+For : 73
+Génie : 32
+Dex : 49
+
+Interaction
+
+- Dialogue
+
+"Il y a eu un drame, il y a des années de celà.. une créature du fond des enfers
+à détruit tout ce a quoi je tenais.. tout ce que j'aimais. J'ai passé ma vie
+a essayer de le retrouver, rien que pour lui demander pourquoi.. mais aujourd'hui ça
+ne sers plus à rien. Je n'ai plus rien.. Tout est fini, je suis la dernière pierre 
+de Millestone, et elle va elle aussi se briser... mais avant celà...
+J'EN FINIRAIS AVEC TOI"

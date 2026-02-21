@@ -1,0 +1,39 @@
+Idil Kokus
+
+Nom : Kokus
+Prénom : Idil
+Âge : 18 ans
+Race : Humaine
+
+Caractère : Révolté, Impuissante, Determiné
+Motivation : Faire déselir Paul Windam pour rendre à la ville de sa superbe
+
+"Non à la tyrannie des riches, vive le pouvoir du peuple! Pour le Roi !"
+
+Cha : 43
+Cons : 67
+For : 60
+Génie : 55
+Dex : 68
+
+Quête :
+
+"Manifestement bon!"
+Les manifestants sur la place du Roi cherche à entrer dans
+l'Office de Cantate pour démettre le Maire de ses fonctions.
+Que faire?
+
+Récompense : Honneur "Guerrier de Cantate" / +100 D / Suite de quête "Manifestement bon pt.2"
+
+"Manifestement bon pt.2" 
+Vous êtes entré dans l'Office avec les manifestants et ils
+ont pris de court Paul Windam ! Le Roi se déplace en personne
+pour rétablir justice, défendez le peuple au nom de la justice
+et qui sait quelle place vous prendrez dans cette histoire !
+
+Récompense : Honneur "Maire de Cantate" / Set de matériel "Armure Chevalresque de Cantate" + "Épée d'Ormitite du Maire" / +600 D
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

@@ -1,0 +1,35 @@
+Surmelis Bourag
+
+Nom : Bourag
+Prénom : Surmelis
+Âge : 43 ans
+Race : Humain
+
+Caractère : Calme, Impliqué, Intelligent
+Motivation : Passer une bonne nuit au campement
+
+"Les créatures environnentes sont un véritable calvaire pour mon groupe, les plaines
+de roche n'offrent décidemment aucun répis!"
+
+Cha : 62
+Cons : 43
+For : 52
+Génie : 33
+Dex : 23
+
+Quête :
+
+"La tempête avant le calme"
+Surmelis, chef de la bande du Louveteau gris, a amené ses élèves
+aux abord de Trumelion, dans les plaines de roches, pour leur 
+apprendre les rudiments de la survie. Il ne s'attendait pas à
+être surpris par autant de Bligz. Défendez son camp, il vous en serait reconnaissant !
+
+Récompense : Une nuit de sommeil au calme / +50 D / Fourrure d'Hiver en peau de Loup Géant
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation
+
+SI DEUX QUÊTES DU CAMP ACCOMPLI GAIN DU QG "CAVERNE DES LOUVETEAUX"

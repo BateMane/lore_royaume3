@@ -1,0 +1,32 @@
+Indius Mulok (Nouveau Maire)
+
+Nom : Mulok
+Prénom : Indius
+Âge : 28 ans
+Race : Humain
+
+Caractère : Manipulateur, Souriant, Fier
+Motivation : Le pouvoir
+
+"Je crois que cet ville mérite quelqu'un qui sera la pour eux!"
+
+Cha : 86
+Cons : 45
+For : 56
+Génie : 79
+Dex : 32
+
+Quête :
+
+"Le moindre mal pt.3"
+Paul Windam vous est très reconnaissant de ce que vous faites
+pour rétablir la paix dans Cantate, mais un filou vous a proposer
+lors de votre campagne, un bien meilleur partie. Tuez Paul
+lors d'un coup d'État, et vous serez grandement récompenser.
+
+Récompense : +300 D / Honneur "Violence contrôlé" / Honneur "Gloire au Nouveau Maire" 
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation

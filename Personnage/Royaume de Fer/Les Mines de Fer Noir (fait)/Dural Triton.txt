@@ -1,0 +1,32 @@
+Dural Triton
+
+Nom : Dural
+Prénom : Triton
+Âge : 27 ans
+Race : Humain
+
+Caractère : Téméraire, Persuasif, Élégant
+Motivation : Prouver à son père qu'il est brave
+
+"Vous, approchez, il est temps de régler cette affaire une bonne fois pour toute!"
+
+Cha : 63
+Cons : 71
+For : 65
+Génie : 23
+Dex : 33
+
+Quête :
+
+"La menace verte"
+Triton est convaincu qu'une menace rôde dans les
+cavernes. Il veut prouver à son père sa valeur en
+la demettant, aidez le, et il saura fièrement vous récompenser.
+
+Récompense : Honneur "Défenseur de nos mines" / +200 D
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation
+

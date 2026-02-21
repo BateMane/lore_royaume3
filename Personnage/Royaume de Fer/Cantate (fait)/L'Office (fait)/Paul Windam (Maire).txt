@@ -1,0 +1,47 @@
+Paul Windam (Maire)
+
+Nom : Windam
+Prénom : Paul
+Âge : 37 ans
+Race : Humain
+
+Caractère : Faux, Souriant, Narcissique
+Motivation : L'argent
+
+"Dans la vie il y a 2 types de personnes, Moi, et les autres."
+
+Cha : 86
+Cons : 60
+For : 41
+Génie : 74
+Dex : 26
+
+Quête :
+
+"Le moindre mal"
+Paul requiert l'assistance de valeureux servant pour mettre
+un terme aux manifestations contre l'ordre établi a Cantate.
+Que vaux un peu de contrôle de foule à base de fracassage de
+crâne?
+
+Récompense : +200 D / Honneur "Risée du village" / Suite de quête "Le moindre mal pt.2"
+
+"Le moindre mal pt.2"
+Le mal est fait, il est temps de redorer l'image du Maire
+Windam à présent. Placarder ces quelques affiche dans la ville
+, et dégagez les corps de la place du Roi.
+
+Récompense : +100 D / Suite de quête "Le moindre mal pt.3"
+
+"Le moindre mal pt.3"
+Paul Windam vous est très reconnaissant de ce que vous faites
+pour rétablir la paix dans Cantate, mais un filou vous a proposer
+lors de votre campagne, un bien meilleur partie. Tuez Paul
+lors d'un coup d'État, et vous serez grandement récompenser.
+
+Récompense : +300 D / Honneur "Violence contrôlé" / Honneur "Gloire au Nouveau Maire" 
+
+Autre interaction :
+
+- Dialogue / Question
+Improvisation
